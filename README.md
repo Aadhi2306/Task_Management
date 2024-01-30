@@ -1,4 +1,4 @@
-# Build a Complete Responsive Task Management System | HTML & CSS & Javascript | 
+# Build a Complete Responsive Collaborative Task Management System | HTML & CSS & Javascript | 
 
 We will build a two-pages task management system. We will work intensively with HTML & CSS. And we are going to use Javascript as well to add some user interactions. What we will accomplish together:
 
